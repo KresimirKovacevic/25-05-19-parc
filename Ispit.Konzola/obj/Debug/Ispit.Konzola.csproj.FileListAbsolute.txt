@@ -9,3 +9,14 @@ C:\Users\Krešimir\source\repos\Ispit.Konzola\bin\Debug\Ispit.Model.pdb
 C:\Users\Krešimir\source\repos\Ispit.Konzola\obj\Debug\Ispit.Konzola.csproj.CopyComplete
 C:\Users\Krešimir\source\repos\Ispit.Konzola\obj\Debug\Ispit.Konzola.exe
 C:\Users\Krešimir\source\repos\Ispit.Konzola\obj\Debug\Ispit.Konzola.pdb
+C:\Users\Krešimir\Desktop\ALGEBRA\parcijalni\25-05-19-parc\Ispit.Konzola\bin\Debug\Ispit.Konzola.exe.config
+C:\Users\Krešimir\Desktop\ALGEBRA\parcijalni\25-05-19-parc\Ispit.Konzola\bin\Debug\Ispit.Konzola.exe
+C:\Users\Krešimir\Desktop\ALGEBRA\parcijalni\25-05-19-parc\Ispit.Konzola\bin\Debug\Ispit.Konzola.pdb
+C:\Users\Krešimir\Desktop\ALGEBRA\parcijalni\25-05-19-parc\Ispit.Konzola\bin\Debug\Ispit.Model.dll
+C:\Users\Krešimir\Desktop\ALGEBRA\parcijalni\25-05-19-parc\Ispit.Konzola\bin\Debug\Ispit.Model.pdb
+C:\Users\Krešimir\Desktop\ALGEBRA\parcijalni\25-05-19-parc\Ispit.Konzola\obj\Debug\Ispit.Konzola.csproj.AssemblyReference.cache
+C:\Users\Krešimir\Desktop\ALGEBRA\parcijalni\25-05-19-parc\Ispit.Konzola\obj\Debug\Ispit.Konzola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Krešimir\Desktop\ALGEBRA\parcijalni\25-05-19-parc\Ispit.Konzola\obj\Debug\Ispit.Konzola.csproj.CoreCompileInputs.cache
+C:\Users\Krešimir\Desktop\ALGEBRA\parcijalni\25-05-19-parc\Ispit.Konzola\obj\Debug\Ispit.Konzola.csproj.CopyComplete
+C:\Users\Krešimir\Desktop\ALGEBRA\parcijalni\25-05-19-parc\Ispit.Konzola\obj\Debug\Ispit.Konzola.exe
+C:\Users\Krešimir\Desktop\ALGEBRA\parcijalni\25-05-19-parc\Ispit.Konzola\obj\Debug\Ispit.Konzola.pdb

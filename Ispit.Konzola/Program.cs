@@ -18,7 +18,6 @@ namespace Ispit.Konzola
             ushort maxDuljina;
             string rezultat;
             string okvir;
-            Console.WriteLine(double.Parse("2.45", NumberStyles.Any, CultureInfo.InvariantCulture));
             Console.WriteLine("Početak rada...\nADD = dodaj ucenika\nPRINT = ispis svih ucenika\nREMOVE = ukloni ucenika\nCLEAR = ukloni sve ucenike\nQUIT = izlaz iz programa");
             do {
                 Console.Write("\nUnesite komandu: ");
